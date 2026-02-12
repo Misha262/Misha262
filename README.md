@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mykhailo Titov
 
-<!--
-**Misha262/Misha262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused / full-stack software engineering student based in **Bratislava (STU)**.  
+I build practical **Java + SQL** applications (APIs + databases) and ship working features end-to-end.
 
-Here are some ideas to get you started:
+## What I’m working on now
+- Backend-first Java projects (REST-style services) with SQL databases
+- A university-related full-stack web project (in progress)
+- Improving Git workflow, basic testing, and clean project documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & tools
+- **Languages:** Java, C, SQL  
+- **Backend:** (learning/using) Spring Boot, REST, validation  
+- **Tools:** Git, Linux  
+- **IDEs:** IntelliJ IDEA, Visual Studio  
+- **Next:** Docker, CI basics, better testing
+
+## Reach me
+- LinkedIn: www.linkedin.com/in/mykhailotitov
+- Email: 
